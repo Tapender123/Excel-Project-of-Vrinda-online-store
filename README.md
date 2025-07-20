@@ -1,1 +1,2 @@
-# Excel-Project-of-Vrinda-online-store
+Project Overview:
+As part of a detailed business analysis project, I transformed raw sales data from Vrinda Store into actionable insights to drive revenue growth. Using Excel, I cleaned, processed, and analysed transactional data to identify key trends, customer behaviour patterns, and operational inefficiencies. The final dashboard provided strategic recommendations to optimize sales and marketing efforts.
